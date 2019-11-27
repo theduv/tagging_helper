@@ -30,3 +30,9 @@ In the infos.txt :
 - `save` : save the current changes to the image
 - `p` or `P` : move to the previous image
 - `n` or `N` : move to the next image
+
+### To do
+
+- tkinter interface
+- elements not found protection
+- script to block the menu redirection / to move automatically the bar
