@@ -18,7 +18,6 @@ def help(state) :
 		image_help()
 
 def do_command(command, state, driver) :
-	driver.execute_script("document.getElementsByClassName('cfc-panel-divider cfc-panel-divider-resizable ng-star-inserted')[1].style.left='300px'")
 	if command == "help" :
 		help(state)
 		return(state)
