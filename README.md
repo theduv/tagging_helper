@@ -25,8 +25,13 @@ In the infos.txt :
 #### Commands
 
 `untagged` : redirects you to the untagged images
+
 `[number]` : when you are on the untagged images, open the image corresponding to the number typed
+
 `[1-x]` : when you are on an image, ticks the corresponding box
+
 `save` : save the current changes to the image
+
 `p` or `P` : move to the previous image
+
 `n` or `N` : move to the next image
